@@ -18,4 +18,9 @@ Swift를 처음 접해보는 사람의 30days challenge입니다.
 
 ## History Log
 ### Day1
-<p><img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day1.png" width="80%" align="middle"></p>
+---
+
+<p align="center">
+  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day1.png" width="70%">
+</p>
+
