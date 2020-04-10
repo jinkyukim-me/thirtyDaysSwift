@@ -19,6 +19,7 @@ Swift를 처음 접해보는 사람의 30days challenge입니다.
 # History Log
 
 ## Day1
+* Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/tree/master/HiThere)
 <p align="center">
   <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day1.png" width="90%">
 </p>
