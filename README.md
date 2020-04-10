@@ -1,8 +1,8 @@
-## Who
+# Who
 Swift를 처음 접해보는 사람의 30days challenge입니다.
 
 
-## What
+# What
 
 매일 1~2시간씩 공부해서 앱 만들어보겠습니다.
 
@@ -11,16 +11,31 @@ Swift를 처음 접해보는 사람의 30days challenge입니다.
 매일 기록을 해보겠습니다.
 
 
-## How
+# How
 
 공식 홈페이지 튜터리얼과 도서를 참고해서 공부를 합니다.
 
 
-## History Log
-### Day1
+# History Log
+
+## Day1
+<p align="center">
+  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day1.png" width="90%">
+</p>
+
 ---
 
+## Day2
 <p align="center">
-  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day1.png" width="70%">
+  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day2.png" width="90%">
 </p>
+
+---
+
+## Day3
+<p align="center">
+  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day3.png" width="90%">
+</p>
+
+---
 
