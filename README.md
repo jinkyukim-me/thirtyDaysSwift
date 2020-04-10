@@ -23,19 +23,12 @@ Swift를 처음 접해보는 사람의 30days challenge입니다.
   <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day1.png" width="90%">
 </p>
 
----
-
 ## Day2
 <p align="center">
   <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day2.png" width="90%">
 </p>
 
----
-
 ## Day3
 <p align="center">
   <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day3.png" width="90%">
 </p>
-
----
-
