@@ -25,7 +25,11 @@ class ViewController: UIViewController {
         if (numImage < 1) {
             numImage = maxImage
         }
+        
+        let imageName = String(numImage) + ".png"
+        imgSushi.image = UIImage(named: imageName)
     }
+    
     @IBAction func btnNextSushi(_ sender: UIButton) {
         numImage = numImage + 1
         if (numImage > maxImage) {
@@ -36,5 +40,6 @@ class ViewController: UIViewController {
         imgSushi.image = UIImage(named: imageName)
     }
     
+
 }
 
