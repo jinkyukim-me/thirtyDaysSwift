@@ -1,0 +1,367 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5EFB20BE243F7B7F00921777 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFB20BD243F7B7F00921777 /* AppDelegate.swift */; };
+		5EFB20C0243F7B7F00921777 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFB20BF243F7B7F00921777 /* SceneDelegate.swift */; };
+		5EFB20C2243F7B7F00921777 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFB20C1243F7B7F00921777 /* ViewController.swift */; };
+		5EFB20C5243F7B7F00921777 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EFB20C3243F7B7F00921777 /* Main.storyboard */; };
+		5EFB20C7243F7B7F00921777 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5EFB20C6243F7B7F00921777 /* Assets.xcassets */; };
+		5EFB20CA243F7B7F00921777 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EFB20C8243F7B7F00921777 /* LaunchScreen.storyboard */; };
+		5EFB20D7243F7BF600921777 /* porscheLightBlue.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EFB20D1243F7BF500921777 /* porscheLightBlue.png */; };
+		5EFB20D8243F7BF600921777 /* porscheYellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EFB20D2243F7BF600921777 /* porscheYellow.png */; };
+		5EFB20D9243F7BF600921777 /* porscheRed.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EFB20D3243F7BF600921777 /* porscheRed.png */; };
+		5EFB20DA243F7BF600921777 /* porscheDarkBlue.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EFB20D4243F7BF600921777 /* porscheDarkBlue.png */; };
+		5EFB20DB243F7BF600921777 /* porscheWhite.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EFB20D5243F7BF600921777 /* porscheWhite.png */; };
+		5EFB20DC243F7BF600921777 /* porscheBlack.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EFB20D6243F7BF600921777 /* porscheBlack.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		5EFB20BA243F7B7F00921777 /* ImageViewPorsche.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImageViewPorsche.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5EFB20BD243F7B7F00921777 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		5EFB20BF243F7B7F00921777 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		5EFB20C1243F7B7F00921777 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		5EFB20C4243F7B7F00921777 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		5EFB20C6243F7B7F00921777 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5EFB20C9243F7B7F00921777 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		5EFB20CB243F7B7F00921777 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5EFB20D1243F7BF500921777 /* porscheLightBlue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = porscheLightBlue.png; sourceTree = "<group>"; };
+		5EFB20D2243F7BF600921777 /* porscheYellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = porscheYellow.png; sourceTree = "<group>"; };
+		5EFB20D3243F7BF600921777 /* porscheRed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = porscheRed.png; sourceTree = "<group>"; };
+		5EFB20D4243F7BF600921777 /* porscheDarkBlue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = porscheDarkBlue.png; sourceTree = "<group>"; };
+		5EFB20D5243F7BF600921777 /* porscheWhite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = porscheWhite.png; sourceTree = "<group>"; };
+		5EFB20D6243F7BF600921777 /* porscheBlack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = porscheBlack.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5EFB20B7243F7B7F00921777 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5EFB20B1243F7B7F00921777 = {
+			isa = PBXGroup;
+			children = (
+				5EFB20BC243F7B7F00921777 /* ImageViewPorsche */,
+				5EFB20BB243F7B7F00921777 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5EFB20BB243F7B7F00921777 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5EFB20BA243F7B7F00921777 /* ImageViewPorsche.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5EFB20BC243F7B7F00921777 /* ImageViewPorsche */ = {
+			isa = PBXGroup;
+			children = (
+				5EFB20D6243F7BF600921777 /* porscheBlack.png */,
+				5EFB20D4243F7BF600921777 /* porscheDarkBlue.png */,
+				5EFB20D1243F7BF500921777 /* porscheLightBlue.png */,
+				5EFB20D3243F7BF600921777 /* porscheRed.png */,
+				5EFB20D5243F7BF600921777 /* porscheWhite.png */,
+				5EFB20D2243F7BF600921777 /* porscheYellow.png */,
+				5EFB20BD243F7B7F00921777 /* AppDelegate.swift */,
+				5EFB20BF243F7B7F00921777 /* SceneDelegate.swift */,
+				5EFB20C1243F7B7F00921777 /* ViewController.swift */,
+				5EFB20C3243F7B7F00921777 /* Main.storyboard */,
+				5EFB20C6243F7B7F00921777 /* Assets.xcassets */,
+				5EFB20C8243F7B7F00921777 /* LaunchScreen.storyboard */,
+				5EFB20CB243F7B7F00921777 /* Info.plist */,
+			);
+			path = ImageViewPorsche;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5EFB20B9243F7B7F00921777 /* ImageViewPorsche */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5EFB20CE243F7B7F00921777 /* Build configuration list for PBXNativeTarget "ImageViewPorsche" */;
+			buildPhases = (
+				5EFB20B6243F7B7F00921777 /* Sources */,
+				5EFB20B7243F7B7F00921777 /* Frameworks */,
+				5EFB20B8243F7B7F00921777 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ImageViewPorsche;
+			productName = ImageViewPorsche;
+			productReference = 5EFB20BA243F7B7F00921777 /* ImageViewPorsche.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5EFB20B2243F7B7F00921777 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1140;
+				LastUpgradeCheck = 1140;
+				ORGANIZATIONNAME = "Jinkyu Kim";
+				TargetAttributes = {
+					5EFB20B9243F7B7F00921777 = {
+						CreatedOnToolsVersion = 11.4;
+					};
+				};
+			};
+			buildConfigurationList = 5EFB20B5243F7B7F00921777 /* Build configuration list for PBXProject "ImageViewPorsche" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5EFB20B1243F7B7F00921777;
+			productRefGroup = 5EFB20BB243F7B7F00921777 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5EFB20B9243F7B7F00921777 /* ImageViewPorsche */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5EFB20B8243F7B7F00921777 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5EFB20DB243F7BF600921777 /* porscheWhite.png in Resources */,
+				5EFB20DA243F7BF600921777 /* porscheDarkBlue.png in Resources */,
+				5EFB20D9243F7BF600921777 /* porscheRed.png in Resources */,
+				5EFB20DC243F7BF600921777 /* porscheBlack.png in Resources */,
+				5EFB20CA243F7B7F00921777 /* LaunchScreen.storyboard in Resources */,
+				5EFB20D8243F7BF600921777 /* porscheYellow.png in Resources */,
+				5EFB20C7243F7B7F00921777 /* Assets.xcassets in Resources */,
+				5EFB20C5243F7B7F00921777 /* Main.storyboard in Resources */,
+				5EFB20D7243F7BF600921777 /* porscheLightBlue.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5EFB20B6243F7B7F00921777 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5EFB20C2243F7B7F00921777 /* ViewController.swift in Sources */,
+				5EFB20BE243F7B7F00921777 /* AppDelegate.swift in Sources */,
+				5EFB20C0243F7B7F00921777 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		5EFB20C3243F7B7F00921777 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5EFB20C4243F7B7F00921777 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		5EFB20C8243F7B7F00921777 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5EFB20C9243F7B7F00921777 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5EFB20CC243F7B7F00921777 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		5EFB20CD243F7B7F00921777 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5EFB20CF243F7B7F00921777 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = G4H7TGCHUL;
+				INFOPLIST_FILE = ImageViewPorsche/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.mycompany.ios.MyApp.ImageViewPorsche;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5EFB20D0243F7B7F00921777 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = G4H7TGCHUL;
+				INFOPLIST_FILE = ImageViewPorsche/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.mycompany.ios.MyApp.ImageViewPorsche;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5EFB20B5243F7B7F00921777 /* Build configuration list for PBXProject "ImageViewPorsche" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5EFB20CC243F7B7F00921777 /* Debug */,
+				5EFB20CD243F7B7F00921777 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5EFB20CE243F7B7F00921777 /* Build configuration list for PBXNativeTarget "ImageViewPorsche" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5EFB20CF243F7B7F00921777 /* Debug */,
+				5EFB20D0243F7B7F00921777 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5EFB20B2243F7B7F00921777 /* Project object */;
+}
