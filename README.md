@@ -18,3 +18,4 @@ Swift를 처음 접해보는 사람의 30days challenge입니다.
 
 ## History Log
 ### Day1
+![alt day1](/data/day1.png)
