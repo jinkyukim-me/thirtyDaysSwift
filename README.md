@@ -21,17 +21,23 @@ Swift를 처음 접해보는 사람의 30days challenge입니다.
 ## Day1
 * Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/helloThere/helloThere/ViewController.swift)
 <p align="center">
-  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day1.png" width="90%">
+  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day1.png">
 </p>
 
 ## Day2
 * Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/ImageView/ImageView/ViewController.swift)
 <p align="center">
-  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day2.png" width="90%">
+  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day2.png">
 </p>
 
 ## Day3
 * Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/ImageViewPorsche/ImageViewPorsche/ViewController.swift)
 <p align="center">
-  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day3.png" width="90%">
+  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day3.png">
+</p>
+
+## Day4
+* Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/imageViewerNext/imageViewerNext/ViewController.swift)
+<p align="center">
+  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day4.png">
 </p>
