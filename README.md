@@ -41,3 +41,9 @@ Swift를 처음 접해보는 사람의 30days challenge입니다.
 <p align="center">
   <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day4.png">
 </p>
+
+## Day5
+* Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/Landmarks/Landmarks/ContentView.swift)
+<p align="center">
+  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day5.png">
+</p>
