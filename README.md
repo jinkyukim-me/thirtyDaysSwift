@@ -61,3 +61,9 @@ Swift를 처음 접해보는 사람의 30days challenge입니다.
 <p align="center">
   <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day6.png" width="60%">
 </p>
+
+## Day7
+* Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/DatePickerAlarm/DatePickerAlarm/ViewController.swift)
+<p align="center">
+  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day7.png" width="60%">
+</p>
