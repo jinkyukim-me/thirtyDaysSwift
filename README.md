@@ -77,5 +77,5 @@ Swift를 처음 접해보는 사람의 30days challenge입니다.
 ## Day9
 * Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/PickerView/PickerView/ViewController.swift)
 <p align="center">
-  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day9.png" width="90%">
+  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day9.png" width="100%">
 </p>
