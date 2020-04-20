@@ -81,7 +81,7 @@ Swift를 처음 접해보는 사람의 30days challenge입니다.
 </p>
 
 ## Day10
-* Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/Alert/Alert/ViewController.swift)
+* Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/Web/ViewController.swift)
 <p align="center">
   <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day10.png" width="100%">
 </p>
