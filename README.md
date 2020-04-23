@@ -29,61 +29,61 @@ Swift를 처음 접해보는 사람의 30days challenge입니다.
 ## Day1
 * Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/helloThere/helloThere/ViewController.swift)
 <p align="center">
-  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day1.png">
+  <img src="https://imagizer.imageshack.com/img922/9679/NsYVAD.png">
 </p>
 
 ## Day2
 * Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/ImageView/ImageView/ViewController.swift)
 <p align="center">
-  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day2.png">
+  <img src="https://imagizer.imageshack.com/img924/2334/z8le78.png">
 </p>
 
 ## Day3
 * Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/ImageViewPorsche/ImageViewPorsche/ViewController.swift)
 <p align="center">
-  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day3.png">
+  <img src="https://imagizer.imageshack.com/img923/3959/ompnln.png">
 </p>
 
 ## Day4
 * Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/imageViewerNext/imageViewerNext/ViewController.swift)
 <p align="center">
-  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day4.png">
+  <img src="https://imagizer.imageshack.com/img922/5448/CpSaZ6.png">
 </p>
 
 ## Day5
 * Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/Landmarks/Landmarks/ContentView.swift)
 <p align="center">
-  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day5.png" width="30%">
+  <img src="https://imagizer.imageshack.com/img923/5708/apC0Xi.png" width="30%">
 </p>
 
 ## Day6
 * Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/DatePicker/DatePicker/ViewController.swift)
 <p align="center">
-  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day6.png" width="60%">
+  <img src="https://imagizer.imageshack.com/img923/5708/apC0Xi.png" width="60%">
 </p>
 
 ## Day7
 * Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/DatePickerAlarm/DatePickerAlarm/ViewController.swift)
 <p align="center">
-  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day7.png" width="80%">
+  <img src="https://imagizer.imageshack.com/img924/5348/q0jAN4.png" width="80%">
 </p>
 
 ## Day8
 * Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/PickerView/PickerView/ViewController.swift)
 <p align="center">
-  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day8.png" width="90%">
+  <img src="https://imagizer.imageshack.com/img922/2271/xxkoZY.png" width="90%">
 </p>
 
 ## Day9
 * Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/Alert/Alert/ViewController.swift)
 <p align="center">
-  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day9.png" width="100%">
+  <img src="https://imagizer.imageshack.com/img922/2480/Q8JObb.png" width="100%">
 </p>
 
 ## Day10
 * Code : [here](https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/Web/ViewController.swift)
 <p align="center">
-  <img src="https://github.com/jinkyukim-me/thirtyDaysSwift/blob/master/data/day10.png" width="100%">
+  <img src="https://imagizer.imageshack.com/img924/3466/rduVro.png" width="100%">
 </p>
 
 
