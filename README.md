@@ -87,4 +87,3 @@ Swift를 처음 접해보는 사람의 30days challenge입니다.
 </p>
 
 
-<img src="https://i.imgur.com/RSjO5Ub.jpeg" style="max-height: 1078.7px; min-height: 1078.7px; max-width: 666.884px;">
